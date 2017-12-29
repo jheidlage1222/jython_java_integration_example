@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?eclipse-pydev version="1.0"?><pydev_project>
+<pydev_pathproperty name="org.python.pydev.PROJECT_SOURCE_PATH">
+<path>/JythonSample</path>
+<path>/JythonSample/src</path>
+</pydev_pathproperty>
+<pydev_property name="org.python.pydev.PYTHON_PROJECT_VERSION">jython 2.7</pydev_property>
+<pydev_property name="org.python.pydev.PYTHON_PROJECT_INTERPRETER">C:\jython2.7.0\jython.jar</pydev_property>
+<pydev_pathproperty name="org.python.pydev.PROJECT_EXTERNAL_SOURCE_PATH">
+<path>C:\jython2.7.0\Lib\site-packages</path>
+<path>H:\javalib</path>
+<path>H:\javalib\httpclient-4.5.4.jar</path>
+<path>H:\javalib\httpcore-4.4.7.jar</path>
+<path>H:\javalib\commons-codec-1.10.jar</path>
+<path>H:\javalib\commons-logging-1.2.jar</path>
+</pydev_pathproperty>
+</pydev_project>
