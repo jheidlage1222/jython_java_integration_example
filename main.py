@@ -26,6 +26,8 @@ MY_QUERY = "SELECT * FROM Application"
 
 def main():
     p.RunClientTest()
+    p.VarTest()
+    #p.RunClientTest()
     #pClient.RunClientProxyTest()
     return
     msg = ""
